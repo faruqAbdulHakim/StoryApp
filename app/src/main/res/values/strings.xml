@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login_page">Login Page</string>
+    <string name="register_page">Register Page</string>
+    <string name="home">Home</string>
+    <string name="setting">Setting</string>
+    <string name="description">Description</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="no_image">No Image</string>
+    <string name="description_blank_error">Description should not be empty</string>
+    <string name="story_by">Story by: %s</string>
+    <string name="logout">Logout</string>
+    <string name="check_input">Please check required input.</string>
+    <string name="no_data">No Data</string>
+    <string name="created_at">Created at: %s</string>
+    <string name="wrong_email_or_password">Wrong email or password</string>
+    <string name="bad_request">Bad Request. Check your input.</string>
+    <string name="unknown_host">Unknown Host. Please check your internet connection.</string>
+    <string name="login_fail">Login Failed</string>
+    <string name="register_fail">Register Failed</string>
+    <string name="add">Add</string>
+    <string name="language">Language</string>
+    <string name="information">Information</string>
+    <string name="app_information">Developed by: Faruq Abdul Hakim\n\nAttributes:\n\t- storyset.com (illustration)</string>
+    <string name="retry">Retry</string>
+    <string name="maps">Maps</string>
+    <string name="add_location">Add Location</string>
+    <string name="no_location">Location not found. Please try again</string>
+</resources>
